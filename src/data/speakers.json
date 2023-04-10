@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "/images/speakers/1)Sunny-Lu.png",
+    "name": "Alex Zinder",
+    "role": "Ledger Enterprise"
+  },
+  {
+    "id": 2,
+    "image": "/images/speakers/2)Helen-Hai.png",
+    "name": "Dina Sam'an",
+    "role": "CoinMENA"
+  },
+  {
+    "id": 3,
+    "image": "/images/speakers/3)Alex-Zinder.png",
+    "name": "Gracy Chen",
+    "role": "Bitget"
+  },
+  {
+    "id": 4,
+    "image": "/images/speakers/4)Gracy-Chen.png",
+    "name": "Helen Hai",
+    "role": "Binance"
+  },
+  {
+    "id": 5,
+    "image": "/images/speakers/5)Mohammed-Alblooshi.png",
+    "name": "Jason Allegratnte",
+    "role": "Fireblocks"
+  },
+  {
+    "id": 6,
+    "image": "/images/speakers/6)Max-Kordek.png",
+    "name": "Jean Charles-Gaudechon",
+    "role": "OneFootball Labs"
+  },
+  {
+    "id": 7,
+    "image": "/images/speakers/7)Nena-Dokuzov.png",
+    "name": "Max Kordek",
+    "role": "Lisk"
+  },
+  {
+    "id": 8,
+    "image": "/images/speakers/8)Reece-Merrick.png",
+    "name": "Mohammed Alblooshi",
+    "role": "Dubai International Financial Centre Authority"
+  },
+  {
+    "id": 9,
+    "image": "/images/speakers/9)Dina-Sam'an.png",
+    "name": "Nena Dokuzov",
+    "role": "Alserkal Group"
+  },
+  {
+    "id": 10,
+    "image": "/images/speakers/10)Jean-Charles-Gaudechon.png",
+    "name": "Nicole Purin",
+    "role": "OKX"
+  },
+  {
+    "id": 11,
+    "image": "/images/speakers/11)Nicole-Purin.png",
+    "name": "Reece Merrick",
+    "role": "Ripple"
+  },
+  {
+    "id": 12,
+    "image": "/images/speakers/12)Jason-Allegrante.png",
+    "name": "Sunny Lu",
+    "role": "Vechain"
+  }
+]

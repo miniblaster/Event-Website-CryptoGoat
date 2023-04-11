@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 const PortfolioTwoItem = ({ portfolio }) => {
   const handleClick = (event) => {
     event.preventDefault();
-    console.log(portfolio.url)
     window.open(portfolio.url, '_blank');
   };
 
@@ -15,7 +14,8 @@ const PortfolioTwoItem = ({ portfolio }) => {
           <figure className="card-image">
             <a
               href={'https://' + portfolio.url}
-              onClick={handleClick}
+              target={'_blank'}
+              rel={'noreferrer'}
             >
               <img
                 className="img-fluid"
@@ -26,14 +26,16 @@ const PortfolioTwoItem = ({ portfolio }) => {
           </figure>
           <a
             href={'https://' + portfolio.url}
-            onClick={handleClick}
+            target={'_blank'}
+            rel={'noreferrer'}
           ></a>
         </div>
         <div className="content text-center">
           <h5 className="title mb--10">
             <a
               href={'https://' + portfolio.url}
-              onClick={handleClick}
+              target={'_blank'}
+              rel={'noreferrer'}
             >
               {portfolio.url}
             </a>

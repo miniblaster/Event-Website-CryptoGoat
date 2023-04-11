@@ -10,7 +10,7 @@ import filters from "../../data/stack.json";
 const alldata = SponsorsInfo;
 const PortfolioTwo = ({ Column }) => {
   const [getAllItems] = useState(alldata);
-  const [dataVisibleCount, setDataVisibleCount] = useState(4);
+  const [dataVisibleCount, setDataVisibleCount] = useState(8);
   const [dataIncrement] = useState(4);
   const [noMorePost, setNoMorePost] = useState(false);
   const [activeFilter, setActiveFilter] = useState("");
@@ -68,7 +68,7 @@ const PortfolioTwo = ({ Column }) => {
         ))}
       </div>
 
-      <div className="row row--15">
+      {/* <div className="row row--15">
         <div className="col-lg-12">
           <div className="rwt-load-more text-center mt--50">
             <button
@@ -89,7 +89,7 @@ const PortfolioTwo = ({ Column }) => {
             </button>
           </div>
         </div>
-      </div>
+      </div> */}
     </ScrollAnimation>
   );
 };

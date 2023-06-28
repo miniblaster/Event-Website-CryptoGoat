@@ -26,7 +26,7 @@ const PortfolioThreeColumn = () => {
 
   return (
     <>
-      <SEO title="CryptoGOAT in Abu Dhabi" />
+      <SEO title="aa" />
 
       <main className="page-wrapper">
         {/* <HeaderTopNews /> */}

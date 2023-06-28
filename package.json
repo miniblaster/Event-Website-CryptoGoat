@@ -57,5 +57,8 @@
   },
   "devDependencies": {
     "fslightbox-react": "^1.6.2"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
